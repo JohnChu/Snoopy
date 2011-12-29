@@ -1,0 +1,1 @@
+libusb/core.c: vfprintf segfaults, replaced by vprintf

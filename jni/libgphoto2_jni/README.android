@@ -1,0 +1,7 @@
+This is quite old libgphoto2 java bindings taken from
+https://gphoto.svn.sourceforge.net/svnroot/gphoto/trunk/bindings/libgphoto2-java
+And patched by me to support recent libgphoto2 version.
+
+This is still a work in progress and is alpha quality.
+--
+konstantin.sobolev@gmail.com aka kos
